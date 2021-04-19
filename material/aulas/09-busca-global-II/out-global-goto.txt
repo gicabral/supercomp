@@ -1,0 +1,4 @@
+95 236 1
+0 6 9 
+num_copy 2
+num_leaf 77
